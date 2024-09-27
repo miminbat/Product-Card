@@ -11,10 +11,10 @@ Reproduire avec HTML5 et CSS3 la maquette de fiche profuit ci-dessous.
 - Le titre et les icônes changent de couleur au survol
 - Ne pas oublier le box-shadow, discret mais présent
 
-  ### Charte graphique
+### Charte graphique
 
-  Police : 'Roboto'
-  Couleurs utilisées : rouge crimson (#bf0010), gris clair (#f0f0f0), gris moyen (#bbbbbb ou #999999), noir (#222222)
+Police : 'Roboto'
+Couleurs utilisées : rouge crimson (#bf0010), gris clair (#f0f0f0), gris moyen (#bbbbbb ou #999999), noir (#222222)
 
 Les images sont fournies.
   

@@ -18,7 +18,7 @@ Reproduire avec HTML5 et CSS3 la maquette de fiche produit ci-dessous.
 
 Les images sont fournies.
 
-Textes : 
+### Textes
 
 Nouveauté  
 Jeux vidéo &#x2192; consoles de jeu  

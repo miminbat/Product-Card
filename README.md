@@ -13,8 +13,8 @@ Reproduire avec HTML5 et CSS3 la maquette de fiche profuit ci-dessous.
 
 ### Charte graphique
 
-Police : 'Roboto'
-Couleurs utilisées : rouge crimson (#bf0010), gris clair (#f0f0f0), gris moyen (#bbbbbb ou #999999), noir (#222222)
+- Police : 'Roboto'
+- Couleurs utilisées : rouge crimson (#bf0010), gris clair (#f0f0f0), gris moyen (#bbbbbb ou #999999), noir (#222222)
 
 Les images sont fournies.
   

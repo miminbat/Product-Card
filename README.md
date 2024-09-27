@@ -20,11 +20,9 @@ Les images sont fournies.
 
 Textes : 
 
-Nouveauté
-
-Jeux vidéo &#x2192; consoles de jeu
-Nintendo Switch Lite Hyrule Edition
-
-La Nintendo Switch Lite est une nouvelle venue compacte et légère dans la gamme Nintendo Switch, avec commandes intégrées.
-229€
+Nouveauté  
+Jeux vidéo &#x2192; consoles de jeu  
+Nintendo Switch Lite Hyrule Edition  
+La Nintendo Switch Lite est une nouvelle venue compacte et légère dans la gamme Nintendo Switch, avec commandes intégrées.  
+229€  
 209€

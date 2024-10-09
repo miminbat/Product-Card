@@ -58,6 +58,16 @@ hr {
     background-color: #bf0010;
     display: flex;
     margin-left: 0;
-    
 
+
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+.icons {
+    color: purple;
+}
+.prix {
+    
 }
